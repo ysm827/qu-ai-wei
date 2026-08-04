@@ -1,7 +1,8 @@
-# Local agent and validation state
+# Local agent and generated evaluation state
 AGENTS.md
 .claude/
-tests/validate-local.sh
+tests/runs/
+assets/social-preview.png
 
 # Local secrets and OS metadata
 .env
